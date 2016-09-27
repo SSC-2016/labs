@@ -18,4 +18,6 @@ Remember the useful terminal commands:
 - `ls`
 - `mkdir`
 - `echo`
+- `chmod`
+- `chown`
 
