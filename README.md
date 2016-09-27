@@ -1,6 +1,6 @@
 # lab 1. 27-28 September
 
-The topic this week's lab is [access rights in *nix OSes](http://staff.cs.upt.ro/~marius/curs/sec/2012/lab1.html).
+The topic this week's lab is [access rights in *nix OSes (link to what you have to solve)](http://staff.cs.upt.ro/~marius/curs/sec/2012/lab1.html).
 
 Remember, ideally we work on [a virtual machine](https://github.com/SSC-2016/lab-rules/blob/master/README.md#general-workflow). But this week we can use the physical machine.
 
