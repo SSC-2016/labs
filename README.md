@@ -17,5 +17,5 @@ Remember the useful terminal commands:
 - `touch`
 - `ls`
 - `mkdir`
-` `echo`
+- `echo`
 
