@@ -21,3 +21,7 @@ Remember the useful terminal commands:
 - `chmod`
 - `chown`
 
+And the useful system calls:
+- `stat`
+- `getpwuid`
+- `getgrgid`
