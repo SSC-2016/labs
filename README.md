@@ -10,7 +10,7 @@ This week we will be trying to gain understanding of the Set-UID security mechan
 
 You can even learn by practicing at home. In order to do that, [follow the instructions on how to set up your environment, and download the correct VM](https://github.com/SSC-2016/lab-rules/blob/master/README.md#general-workflow).
 
-### Useful links links
+### Useful links
 - [SSC lab rules](https://github.com/SSC-2016/lab-rules)
 - [SEED labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
 - [Setting up VMs](http://www.cis.syr.edu/~wedu/seed/lab_env.html)
