@@ -6,6 +6,10 @@ This week we will be trying to gain understanding of the Set-UID security mechan
 - [the class materials from week 1](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
 - [SEED lab materials on Set-UID](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Set-UID/)
 
+### Quizz
+
+Please remember that starting this lab we will be doing a very short quizz about the topic of the week. So try to read carefully the materials, and understand the concepts.
+
 ### Installing the Virtual Machine
 
 You can even learn by practicing at home. In order to do that, [follow the instructions on how to set up your environment, and download the correct VM](https://github.com/SSC-2016/lab-rules/blob/master/README.md#general-workflow).
