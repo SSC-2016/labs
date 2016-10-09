@@ -4,7 +4,7 @@ This week we will be trying to gain understanding of buffer overflow issues and 
 Please focus on understanding how the stack is working, and the principle way of attacking them. 
 From here on out, we will be following the guides, and materials made available by the SEED labs.
 
-### Recommended Reading
+## Required Reading
 - [the class materials from week 3](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
 - [SEED lab materials on buffer overflow](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Buffer_Overflow/)
 - hint: if for some reason the lecture/lab page is not updated in time, please check out last year's resources
