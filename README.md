@@ -8,6 +8,7 @@ From here on out, we will be following the guides, and materials made available 
 - [the class materials from week 3](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
 - [SEED lab materials on buffer overflow](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Buffer_Overflow/)
 - hint: if for some reason the lecture/lab page is not updated in time, please check out last year's resources
+- [gdb tutorial](https://www.youtube.com/watch?v=sCtY--xRUyI)
 
 ### Quizz
 
