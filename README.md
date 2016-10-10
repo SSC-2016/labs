@@ -15,6 +15,9 @@ From here on out, we will be following the guides, and materials made available 
 - Some familiarity with machine code.
 - Know how systems calls are made. 
 - The exec() system call.
+- Details vary slightly between CPU’s and OS:
+  - Stack growth direction.
+  - big endian vs. little endian.
 
 ### Quizz
 
@@ -28,7 +31,7 @@ Please make sure to make it on time.
 
 You can even learn by practicing at home. In order to do that, [follow the instructions on how to set up your environment, and download the correct VM](https://github.com/SSC-2016/lab-rules/blob/master/README.md#general-workflow).
 
-Bring a USB stick with the VM as a backup to the lab/
+Bring a USB stick with the VM as a backup to the lab.
 
 ### Useful links
 - [SSC lab rules](https://github.com/SSC-2016/lab-rules)
