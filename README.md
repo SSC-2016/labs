@@ -10,6 +10,12 @@ From here on out, we will be following the guides, and materials made available 
 - hint: if for some reason the lecture/lab page is not updated in time, please check out last year's resources
 - [gdb tutorial](https://www.youtube.com/watch?v=sCtY--xRUyI)
 
+### What is needed to understand Buffer Overflow
+- Understanding C functions and the stack.
+- Some familiarity with machine code.
+- Know how systems calls are made. 
+- The exec() system call.
+
 ### Quizz
 
 Please remember that starting this lab we will be doing a very short quizz about the topic of the week. 
