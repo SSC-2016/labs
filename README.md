@@ -33,7 +33,7 @@ randoff:
 			sudo sysctl -w kernel.randomize_va_space=0
 
 randon:
-			sudo sysctl -w kernel.randomize_va_space=1			
+			sudo sysctl -w kernel.randomize_va_space=1	
 ```
 
 ### Quizz
