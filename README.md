@@ -19,6 +19,23 @@ From here on out, we will be following the guides, and materials made available 
   - Stack growth direction.
   - big endian vs. little endian.
 
+### Example makefile to ease compilation
+Save the following content into a file named `Makefile` (yes, with capital `M`) in your working folder containing your source code (in this example, the C file is named `main.c`)
+```
+main:	main.c
+			gcc -o main -fno-stack-protector main.c
+
+s:
+			gcc -S -fno-stack-protector main.c
+
+
+randoff:
+			sudo sysctl -w kernel.randomize_va_space=0
+
+randon:
+			sudo sysctl -w kernel.randomize_va_space=1			
+```
+
 ### Quizz
 
 Please remember that starting this lab we will be doing a very short quizz about the topic of the week. 
