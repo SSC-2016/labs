@@ -1,14 +1,13 @@
-# lab 3. 11-12 October
+# lab 4. 18-19 October
 
-This week we will be trying to gain understanding of buffer overflow issues and potential attacks. 
-Please focus on understanding how the stack is working, and the principle way of attacking them. 
-From here on out, we will be following the guides, and materials made available by the SEED labs.
+This week we will be building on our knowledge gained from the previous lab and attempt to do a `Return-to-libc` attack.
 
 ## Required Reading
-- [the class materials from week 3](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
+- [the class materials from weeks 3-4](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
 - [SEED lab materials on buffer overflow](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Buffer_Overflow/)
-- hint: if for some reason the lecture/lab page is not updated in time, please check out last year's resources
+- [SEED lab materials on Return-to-libc](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Return_to_libc/)
 - [gdb tutorial](https://www.youtube.com/watch?v=sCtY--xRUyI)
+- [gdb cheat-sheet](http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 
 ### What is needed to understand Buffer Overflow
 - Understanding C functions and the stack.
@@ -38,8 +37,7 @@ randon:
 
 ### Quizz
 
-Please remember that starting this lab we will be doing a very short quizz about the topic of the week. 
-So try to read carefully the materials, and understand the concepts.
+Please remember there will be a quizz at the start of this lab. Therefore, try to understand the core concepts.
 
 On Tuesday and Wednesday morning, the quiz will be given in the first 10 minutes of the lab. 
 Please make sure to make it on time. 
@@ -50,9 +48,12 @@ You can even learn by practicing at home. In order to do that, [follow the instr
 
 Bring a USB stick with the VM as a backup to the lab.
 
-### Useful links
+### Currated collection of useful links
 - [SSC lab rules](https://github.com/SSC-2016/lab-rules)
 - [SEED labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
 - [Setting up VMs](http://www.cis.syr.edu/~wedu/seed/lab_env.html)
-- [the class materials from week 3](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
+- [the class materials from weeks 3-4](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
 - [SEED lab materials on buffer overflow](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Buffer_Overflow/)
+- [SEED lab materials on Return-to-libc](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Return_to_libc/)
+- [gdb tutorial](https://www.youtube.com/watch?v=sCtY--xRUyI)
+- [gdb cheat-sheet](http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
