@@ -1,4 +1,4 @@
-# lab 4. 18-19 October
+# lab 4. 18-19 October - Return-to-libc
 
 This week we will be building on our knowledge gained from the previous lab and attempt to do a `Return-to-libc` attack.
 
