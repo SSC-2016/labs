@@ -7,16 +7,29 @@ This week we will be building on our knowledge gained from the previous lab and 
 - [SEED lab materials on buffer overflow](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Buffer_Overflow/)
 - [SEED lab materials on Return-to-libc](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Return_to_libc/)
 - [gdb tutorial](https://www.youtube.com/watch?v=sCtY--xRUyI)
-- [gdb cheat-sheet](http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+	- know what the gdb is
+	- know how to use the gdb
+	- [gdb cheat-sheet](http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+- [functions and stack frames](https://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames)
 
-### What is needed to understand Buffer Overflow
+### What is needed to understand Buffer Overflow and Return-to-libc 
 - Understanding C functions and the stack.
+	- https://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames
+	- http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - Some familiarity with machine code.
 - Know how systems calls are made. 
 - The exec() system call.
 - Details vary slightly between CPU’s and OS:
   - Stack growth direction.
   - big endian vs. little endian.
+
+### Lab tasks and checkpoints
+Tuesday and Wednesday (08-10)
+- tasks 1-2.4
+	- write the report as lab4-student-name.txt
+	- submit source code
+- demonstrate the use of the gdb
+- demonstrate knowledge of how the stack is working
 
 ### Example makefile to ease compilation
 Save the following content into a file named `Makefile` (yes, with capital `M`) in your working folder containing your source code (in this example, the C file is named `main.c`)
