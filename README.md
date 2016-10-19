@@ -12,6 +12,10 @@ This week we will be building on our knowledge gained from the previous lab and 
 	- [gdb cheat-sheet](http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 - [functions and stack frames](https://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames)
 
+## Additional Information 
+- [program vulnerabilities] (http://blog.fkraiem.org/2013/10/08/exploiting-basic-vulnerabilities/)
+- [stack theory] (http://blog.fkraiem.org/2013/10/08/the-stack-theory/)
+
 ### What is needed to understand Buffer Overflow and Return-to-libc 
 - Understanding C functions and the stack.
 	- https://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames
