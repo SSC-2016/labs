@@ -14,7 +14,11 @@ This week we will be building on our knowledge gained from the previous lab and 
 
 ## Additional Information 
 - [program vulnerabilities] (http://blog.fkraiem.org/2013/10/08/exploiting-basic-vulnerabilities/)
-- [stack theory] (http://blog.fkraiem.org/2013/10/08/the-stack-theory/)
+   - [stack theory] (http://blog.fkraiem.org/2013/10/08/the-stack-theory/)
+   - [stack practice] (http://blog.fkraiem.org/2013/10/08/the-stack-practice/)
+   - [shellcodes] (http://blog.fkraiem.org/2013/10/09/shellcodes/)
+   - [NOP slides] (http://blog.fkraiem.org/2013/10/25/nop-sleds/)
+   - [return-to-libc] (http://blog.fkraiem.org/2013/10/26/return-to-libc/)
 
 ### What is needed to understand Buffer Overflow and Return-to-libc 
 - Understanding C functions and the stack.
