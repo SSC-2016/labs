@@ -21,6 +21,10 @@ This week we will be building on our knowledge gained from the previous lab and 
    - [NOP slides] (http://blog.fkraiem.org/2013/10/25/nop-sleds/)
    - [return-to-libc] (http://blog.fkraiem.org/2013/10/26/return-to-libc/)
 
+## Reminder - Security Talk (presentation)
+- this is the final week for choosing a topic
+- in week 6 topic list should already be final 
+
 ### What is needed to understand Buffer Overflow and Return-to-libc 
 - Understanding C functions and the stack.
 	- https://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames
