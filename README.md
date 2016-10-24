@@ -3,7 +3,7 @@
 This week we will be building on our knowledge gained from the previous lab and attempt to do a `Return-to-libc` attack.
 
 ## Required Reading
-- [SEED lab materials on buffer overflow](http://www.cis.syr.edu/~wedu/seed/Labs/Vulnerability/Format_String/)
+- [SEED lab materials on format string vulnerabilities](http://www.cis.syr.edu/~wedu/seed/Labs/Vulnerability/Format_String/)
 - [the class materials from weeks 3-5](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
   - [SEED lab materials on buffer overflow](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Buffer_Overflow/)
   - [SEED lab materials on Return-to-libc](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Vulnerability/Return_to_libc/)
