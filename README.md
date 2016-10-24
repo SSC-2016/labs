@@ -14,6 +14,11 @@ This week we will be building on our knowledge gained from the previous lab and 
 - [functions and stack frames](https://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames)
 
 ## Additional Information 
+- other lectures, blogs
+	- [format string vulnerabilities lab] (http://www.cis.syr.edu/~wedu/Teaching/cis643/LectureNotes_New/Format_String.pdf)
+	- [OWASP page for string vulnerabilities] (https://www.owasp.org/index.php/Format_string_attack)
+	- [stackoverflow exploit discussion] (http://stackoverflow.com/questions/7459630/how-can-a-format-string-vulnerability-be-exploited)
+	
 - [program vulnerabilities] (http://blog.fkraiem.org/2013/10/08/exploiting-basic-vulnerabilities/)
    - [stack theory] (http://blog.fkraiem.org/2013/10/08/the-stack-theory/)
    - [stack practice] (http://blog.fkraiem.org/2013/10/08/the-stack-practice/)
