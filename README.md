@@ -1,6 +1,6 @@
 # lab 5. 25-26 October - Format String Vulnerabilities
 
-This week we will be building on our knowledge gained from the previous lab and attempt to do a `Return-to-libc` attack.
+This week we will be building on our knowledge gained from the previous lab and attempt to do a `format string` attack.
 
 ## Required Reading
 - [SEED lab materials on format string vulnerabilities](http://www.cis.syr.edu/~wedu/seed/Labs/Vulnerability/Format_String/)
