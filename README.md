@@ -1,4 +1,4 @@
-# lab 5. 2-3 November - Attacks on TCP/IP Protocols
+# lab 6. 2-3 November - Attacks on TCP/IP Protocols
 
 This week we will start working on a new class of security vulnerabilities, those at a network level.
 
