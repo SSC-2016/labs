@@ -10,6 +10,26 @@ This week we will start working on a new class of security vulnerabilities, thos
 ## Additional Information 
 This lab requires interaction, over the network, of at least 3 machines. I will be providing a configuration script to set up a such a three virtual machine setup asap.
 
+### Tuesday and Wednesday 08-10
+- students can work alone or in groups of 2 to 3 students
+
+In this lab you will get familiar with:
+- networking tools
+- tcp protocol
+- network vulnerabilities
+
+### Lab Report
+
+Select one of the tasks from 1 to 7 and submit a lab report. 
+
+The report should cover the following sections:
+
+- Design: The design of your attacks, including the attacking strategies, the packets that you use in your attacks, the tools that you used, etc.
+
+- Observation: Is your attack successful? How do you know whether it has succeeded or not? What do you expect to see? What have you observed? Is the observation a surprise to you?
+
+- Explanation: Some of the attacks might fail. If so, you need to find out what makes them fail. You can find the explanations from your own experiments (preferred) or from the Internet. If you get the explanation from the Internet, you still need to find ways to verify those explanations through your own experiments. You need to convince us that the explanations you get from the Internet can indeed explain your observations.
+
 ## Reminder - Security Talk (presentation)
 - this is the final week for choosing a topic
 - in week 6 topic list should already be final 
