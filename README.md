@@ -10,7 +10,7 @@ This week we will start working on a new class of security vulnerabilities, thos
 ## Additional Information 
 This lab requires interaction, over the network, of at least 3 machines. I will be providing a configuration script to set up a such a three virtual machine setup asap.
 
-### Tuesday and Wednesday 08-10
+## Tuesday and Wednesday 08-10
 - students can work alone or in groups of 2 to 3 students
 
 In this lab you will get familiar with:
