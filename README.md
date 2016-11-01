@@ -5,7 +5,7 @@ This week we will start working on a new class of security vulnerabilities, thos
 ## Required Reading
 - [SEED lab materials on Attacks on TCP/IP Protocols](http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_TCPIP/)
 	- please make sure you get a look at the tools used, there is a link to the [netwox/netwag troubleshooting guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Misc/netwox.pdf)  
-- [the class materials from weeks 5](http://staff.cs.upt.ro/~marius/curs/sec/2015/index.html)
+- [the class materials on network security](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
 
 ## Additional Information 
 This lab requires interaction, over the network, of at least 3 machines. There is [a guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu11_04_VM/VirtualBox_MultipleVMs.pdf) if you need to make your VM visible from the outside.
