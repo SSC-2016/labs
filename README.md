@@ -7,7 +7,8 @@ This week we will start working on a new class of security vulnerabilities, thos
 	- please make sure you get a look at the tools used, there is a link to the [netwox/netwag troubleshooting guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Misc/netwox.pdf)  
 - [the class materials on network security](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
 
-## Additional Information 
+## Additional Information
+- [netwox examples](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/html/examples.html)
 This lab requires interaction, over the network, of at least 3 machines. There is [a guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu11_04_VM/VirtualBox_MultipleVMs.pdf) if you need to make your VM visible from the outside.
 
 ## Tuesday and Wednesday 08-10
