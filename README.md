@@ -8,7 +8,7 @@ This week we will start working on a new class of security vulnerabilities, thos
 - [the class materials from weeks 5](http://staff.cs.upt.ro/~marius/curs/sec/2015/index.html)
 
 ## Additional Information 
-This lab requires interaction, over the network, of at least 3 machines. I will be providing a configuration script to set up a such a three virtual machine setup asap.
+This lab requires interaction, over the network, of at least 3 machines. There is [a guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu11_04_VM/VirtualBox_MultipleVMs.pdf) if you need to make your VM visible from the outside.
 
 ## Tuesday and Wednesday 08-10
 - students can work alone or in groups of 2 to 3 students
