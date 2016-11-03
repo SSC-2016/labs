@@ -24,15 +24,9 @@ In this lab you will get familiar with:
 
 ### Lab Report
 
-Select one of the tasks from 1 to 7 and submit a lab report. 
+Students need to submit a detailed lab report to describe what they have done and what they have observed.
 
-The report should cover the following sections:
-
-- Design: The design of your attacks, including the attacking strategies, the packets that you use in your attacks, the tools that you used, etc.
-
-- Observation: Is your attack successful? How do you know whether it has succeeded or not? What do you expect to see? What have you observed? Is the observation a surprise to you?
-
-- Explanation: Some of the attacks might fail. If so, you need to find out what makes them fail. You can find the explanations from your own experiments (preferred) or from the Internet. If you get the explanation from the Internet, you still need to find ways to verify those explanations through your own experiments. You need to convince us that the explanations you get from the Internet can indeed explain your observations.
+Report should include the evidences to support the observations. Evidences include packet traces, screendumps, etc.
 
 
 ### Quizz
