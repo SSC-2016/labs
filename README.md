@@ -12,6 +12,8 @@ Students will first set up and configure a DNS server, and then they will try va
 ## Additional Information
 - [netwox examples](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/html/examples.html)
 - This lab requires interaction, over the network, of at least 3 machines. There is [a guide](http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu11_04_VM/VirtualBox_MultipleVMs.pdf) if you need to make your VM visible from the outside.
+- if your cloning VMs please check
+	- to have different ip's and MACs for each vm instance. change MAC address to avoid duplicates
 
 ## Tuesday and Wednesday 08-10
 - students can work alone or in groups of 2 to 3 students
