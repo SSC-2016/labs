@@ -4,9 +4,13 @@ The objective of this lab is to understand how CSRF/XSS/SQL-injection attacks wo
 
 ## Required Reading
 - [SEED lab materials on CSRF Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Web/CSRF_Collabtive/)
+	- [CSRF](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
 - [SEED lab materials on XSS Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Web/XSS_Collabtive/)
+	- [XSS](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 - [SEED lab materials on SQL-injection Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Web/SQL_Injection_Collabtive/)
-- [the class materials on network security](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
+	- [SQL-injection](https://www.owasp.org/index.php/SQL_Injection)
+- [Web application security: Ch. 7; Ch. 10 (p.1-35)](https://web.archive.org/web/20120905053629/http://code.google.com/edu/submissions/daswani/index.html)
+
 
 ## Additional Information
 - [Play arround with an insecure web application](https://www.owasp.org/index.php/Webgoat#tab=Main)
@@ -54,4 +58,4 @@ Bring a USB stick with the VM as a backup to the lab.
 - [Setting up VMs](http://www.cis.syr.edu/~wedu/seed/lab_env.html)
 - [SEED lab materials on Attacks on TCP/IP Protocols](http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_TCPIP/)
 - [SEED lab materials on DNS Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_DNS/)
-
+- [the class materials on network security](http://staff.cs.upt.ro/~marius/curs/sec/index.html)
