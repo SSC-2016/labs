@@ -11,6 +11,9 @@ The objective of this lab is to understand how CSRF/XSS/SQL-injection attacks wo
 ## Additional Information
 - [Play arround with an insecure web application](https://www.owasp.org/index.php/Webgoat#tab=Main)
 	- for other insecure applications check the following [link](https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/)
+- useful tools for penetration testing 
+	- [OWASP Zed Attack Proxy (ZAP)] (https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+	
 
 ## Tuesday and Wednesday 08-10
 - students can work alone or in groups of 2 to 3 students
