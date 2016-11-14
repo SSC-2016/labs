@@ -23,7 +23,7 @@ Students need to submit a detailed lab report to describe what they have done an
 
 Report should include the evidences to support the observations. Evidences include packet traces, screendumps, etc.
 
-## Important!!! Final grades
+## Important!!! Final grades - draft
 - total number of labs is 8
 - students can have maximum 2 absences out of 8 labs
 - each absence will be counted as 0
