@@ -3,7 +3,7 @@
 
 The objective of this lab is to understand how CSRF/XSS/SQL-injection attacks work. 
 
-This topic will be covered iver the course of 2 weeks.
+This topic will be covered over the course of 2 weeks.
 
 ## Required Reading
 - [SEED lab materials on CSRF Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Web/CSRF_Collabtive/)
