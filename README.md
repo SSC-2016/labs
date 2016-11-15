@@ -1,6 +1,9 @@
-# lab 8. 15-16 November - CSRF/XSS/SQL-injection Attacks 
+# lab 8. 15-16 and 22-23 November (2 labs)
+ CSRF/XSS/SQL-injection Attacks 
 
 The objective of this lab is to understand how CSRF/XSS/SQL-injection attacks work. 
+
+This topic will be covered iver the course of 2 weeks.
 
 ## Required Reading
 - [SEED lab materials on CSRF Attacks](http://www.cis.syr.edu/~wedu/seed/Labs/Web/CSRF_Collabtive/)
@@ -30,14 +33,13 @@ Students need to submit a detailed lab report to describe what they have done an
 
 Report should include the evidences to support the observations. Evidences include packet traces, screendumps, etc.
 
-## Important!!! Final grades - draft
-- total number of labs is 8
-- students can have maximum 2 absences out of 8 labs
-- each absence will be counted as 0
+## Important!!! Final grades
+- total number of labs is 9
+- students can have maximum 1 absences out of 9 labs
+  - the absence will be counted as 0
 - days left for clearing up absences
-  - 15-16 November
   - 22-23 November
-  - only 29 November
+  - week 14 of the semester (to be decided)
 
 ### Quizz
 
