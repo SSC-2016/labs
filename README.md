@@ -35,8 +35,9 @@ Report should include the evidences to support the observations. Evidences inclu
 
 ## Important!!! Final grades
 - total number of labs is 9
-- students can have maximum 1 absences out of 9 labs
+- students can have maximum 1 absence out of 9 labs
   - the absence will be counted as 0
+  - multiple absences count as failing to pass the lab
 - days left for clearing up absences
   - 22-23 November
   - week 14 of the semester (to be decided)
